@@ -6,8 +6,8 @@ i'm TAEHOON KIM
 - 21.04 ~ : 동탄중앙이음터 도서관 봉사교육동아리 AIoT 
 
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rama0126)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rama0126&hide=Jupyter Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rama0126)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rama0126&hide=JupyterNotebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rama0126/rama0126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
