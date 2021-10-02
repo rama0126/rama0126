@@ -1,5 +1,6 @@
 ### Hi there 👋
-i'm TAEHOON KIM
+i'm TAEHOON KIM 
+#### My Blog : https://blog.naver.com/xo0126
 
 ### profile
 - 17.03 ~ : 명지대학교 정보통신공학과
