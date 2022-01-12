@@ -1,7 +1,8 @@
 ### Hi there 👋
 i'm TAEHOON KIM 
-#### My Blog : https://blog.naver.com/xo0126
-
+#### My Blog : 
+  - CS : https://blog.naver.com/xo0126
+  - Paper review : https://taixun.tistory.com/
 ### profile
 - 17.03 ~ : 명지대학교 정보통신공학과
 - 21.04 ~ : 동탄중앙이음터 도서관 봉사교육동아리 AIoT 
