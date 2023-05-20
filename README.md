@@ -1,11 +1,12 @@
 ### Hi there 👋
 i'm TAEHOON KIM 
+- 🌱 I’m currently learning AI, CV
 #### My Blog : 
-  - CS : https://blog.naver.com/xo0126
-  - Paper review : https://taixun.tistory.com/
+  - [CS, 학부생 때 공부한 것](https://blog.naver.com/xo0126)
 ### profile
-- 17.03 ~ : 명지대학교 정보통신공학과
-- 21.04 ~ : 동탄중앙이음터 도서관 봉사교육동아리 AIoT 
+- 22.03 ~       : 중앙대학교 첨단영상대학원 영상학과,  [VILab] (https://www.vilab.cau.ac.kr/home). 
+- 17.03 ~ 22.02 : 명지대학교 정보통신공학과
+- 21.04 ~ 22.02 : 동탄중앙이음터 도서관 봉사교육동아리 AIoT 
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rama0126)](https://github.com/anuraghazra/github-readme-stats)
