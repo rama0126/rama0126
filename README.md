@@ -3,6 +3,8 @@ i'm TAEHOON KIM
 - 🌱 I’m currently learning AI, CV
 #### My Blog : 
   - [CS, 학부생 때 공부한 것](https://blog.naver.com/xo0126)
+  - [HomePage](https://sites.google.com/vilab.cau.ac.kr/thkim)
+  - [구글 스칼라](https://scholar.google.co.kr/citations?user=n1leMp8AAAAJ&hl=ko)
 ### profile
 - 22.03 ~       : 중앙대학교 첨단영상대학원 영상학과,  [VILab] (https://www.vilab.cau.ac.kr/home). 
 - 17.03 ~ 23.02 : 명지대학교 정보통신공학과
