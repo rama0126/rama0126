@@ -1,6 +1,7 @@
 ### Hi there 👋
 i'm TAEHOON KIM 
 - 🌱 I’m currently learning AI, CV
+- Researching for Deepfake Detection, Continual Learning.
 #### My Blog : 
   - [CS, 학부생 때 공부한 것](https://blog.naver.com/xo0126)
   - [HomePage](https://sites.google.com/vilab.cau.ac.kr/thkim)
