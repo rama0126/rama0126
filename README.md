@@ -2,6 +2,11 @@
 i'm TAEHOON KIM 
 - 🌱 I’m currently learning AI, CV
 - Researching for Deepfake Detection, Continual Learning.
+#### Publications : 
+- Domain Generalization for Face Forgery Detection by Style Transfer, ICCE 2024 [paper](https://ieeexplore.ieee.org/document/10444215)
+  - Taehoon Kim, Jongwook Choi, Hyunjin Cho, Hyong Jun Lim, Jongwon Choi
+- Exploiting Style Latent Flows for Generalizing Video Deepfake Detection, CVPR 2024 [arxiv](https://arxiv.org/abs/2403.06592)
+  - Jongwook Choi, Taehoon Kim, Yonghyun Jeong, Seungryul Baek, Jongwon Choi
 #### My Blog : 
   - [CS, 학부생 때 공부한 것](https://blog.naver.com/xo0126)
   - [HomePage](https://sites.google.com/vilab.cau.ac.kr/thkim)
