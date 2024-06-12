@@ -5,7 +5,7 @@ i'm TAEHOON KIM
 #### Publications : 
 - Domain Generalization for Face Forgery Detection by Style Transfer, ICCE 2024 [paper](https://ieeexplore.ieee.org/document/10444215)
   - Taehoon Kim, Jongwook Choi, Hyunjin Cho, Hyong Jun Lim, Jongwon Choi
-- Exploiting Style Latent Flows for Generalizing Video Deepfake Detection, CVPR 2024 [arxiv](https://arxiv.org/abs/2403.06592)
+- Exploiting Style Latent Flows for Generalizing Video Deepfake Detection, CVPR 2024 [arxiv](https://arxiv.org/abs/2403.06592) [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Choi_Exploiting_Style_Latent_Flows_for_Generalizing_Deepfake_Video_Detection_CVPR_2024_paper.html) [github] (https://github.com/jongwook-Choi/StyleFlow)
   - Jongwook Choi, Taehoon Kim, Yonghyun Jeong, Seungryul Baek, Jongwon Choi
 #### My Blog : 
   - [CS, 학부생 때 공부한 것](https://blog.naver.com/xo0126)
