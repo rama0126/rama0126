@@ -7,12 +7,15 @@ i'm TAEHOON KIM
   - Taehoon Kim, Jongwook Choi, Hyunjin Cho, Hyong Jun Lim, Jongwon Choi
 - Exploiting Style Latent Flows for Generalizing Video Deepfake Detection, CVPR 2024 [arxiv](https://arxiv.org/abs/2403.06592) [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Choi_Exploiting_Style_Latent_Flows_for_Generalizing_Deepfake_Video_Detection_CVPR_2024_paper.html) [github](https://github.com/jongwook-Choi/StyleFlow)
   - Jongwook Choi, Taehoon Kim, Yonghyun Jeong, Seungryul Baek, Jongwon Choi
+- ID-Flow: Leveraging Voice Identity for Generalizing Audio Deepfake Detection, ICCE 2025 [paper](https://drive.google.com/file/d/1_vb0uq1yr3Kcr08HEZ1b0yO2PtutC9hu/view)
+  - Jongwook Choi, Taehoon Kim, Jongwon Choi
 #### My Blog : 
   - [CS, 학부생 때 공부한 것](https://blog.naver.com/xo0126)
   - [HomePage](https://sites.google.com/vilab.cau.ac.kr/thkim)
   - [구글 스칼라](https://scholar.google.co.kr/citations?user=n1leMp8AAAAJ&hl=ko)
 ### profile
-- 23.03 ~       : 중앙대학교 첨단영상대학원 영상학과,  [VILab] (https://www.vilab.cau.ac.kr/home). 
+- 25.02 ~       : 중앙대학교 일반대학원 AI학과,  [VILab] (https://www.vilab.cau.ac.kr/home).
+- 23.03 ~ 25.02 : 중앙대학교 첨단영상대학원 영상학과,  [VILab] (https://www.vilab.cau.ac.kr/home). 
 - 17.03 ~ 23.02 : 명지대학교 정보통신공학과
 - 21.04 ~ 22.02 : 동탄중앙이음터 도서관 봉사교육동아리 AIoT 
 
