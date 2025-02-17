@@ -12,7 +12,9 @@ i'm TAEHOON KIM
 #### My Blog : 
   - [CS, 학부생 때 공부한 것](https://blog.naver.com/xo0126)
   - [HomePage](https://sites.google.com/vilab.cau.ac.kr/thkim)
-  - [구글 스칼라](https://scholar.google.co.kr/citations?user=n1leMp8AAAAJ&hl=ko)
+
+#### Scholar
+  - [Google Scholar](https://scholar.google.co.kr/citations?user=n1leMp8AAAAJ&hl=ko)
 ### profile
 - 25.03 ~       : 중앙대학교 일반대학원 AI학과,  [VILab] (https://www.vilab.cau.ac.kr/home).
 - 23.03 ~ 25.02 : 중앙대학교 첨단영상대학원 영상학과,  [VILab] (https://www.vilab.cau.ac.kr/home). 
