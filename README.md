@@ -14,7 +14,7 @@ i'm TAEHOON KIM
   - [HomePage](https://sites.google.com/vilab.cau.ac.kr/thkim)
   - [구글 스칼라](https://scholar.google.co.kr/citations?user=n1leMp8AAAAJ&hl=ko)
 ### profile
-- 25.02 ~       : 중앙대학교 일반대학원 AI학과,  [VILab] (https://www.vilab.cau.ac.kr/home).
+- 25.03 ~       : 중앙대학교 일반대학원 AI학과,  [VILab] (https://www.vilab.cau.ac.kr/home).
 - 23.03 ~ 25.02 : 중앙대학교 첨단영상대학원 영상학과,  [VILab] (https://www.vilab.cau.ac.kr/home). 
 - 17.03 ~ 23.02 : 명지대학교 정보통신공학과
 - 21.04 ~ 22.02 : 동탄중앙이음터 도서관 봉사교육동아리 AIoT 
