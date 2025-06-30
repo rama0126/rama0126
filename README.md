@@ -9,6 +9,9 @@ i'm TAEHOON KIM
   - Jongwook Choi, Taehoon Kim, Yonghyun Jeong, Seungryul Baek, Jongwon Choi
 - ID-Flow: Leveraging Voice Identity for Generalizing Audio Deepfake Detection, ICCE 2025 [paper](https://drive.google.com/file/d/1_vb0uq1yr3Kcr08HEZ1b0yO2PtutC9hu/view)
   - Jongwook Choi, Taehoon Kim, Jongwon Choi
+- Beyond Spatial Frequency: Pixel-wise Temporal Frequency Deepfake Video Detection, ICCV 2025 [github](https://github.com/rama0126/PwTF-DVD)
+  - Taehoon Kim, Jongwook Choi, Yonghyun Jeong, Haeun Noh, Jaejun Yoo, Seungryul Baek, Jongwon Choi
+
 #### My Blog : 
   - [CS, 학부생 때 공부한 것](https://blog.naver.com/xo0126)
   - [HomePage](https://sites.google.com/vilab.cau.ac.kr/thkim)
@@ -16,10 +19,11 @@ i'm TAEHOON KIM
 #### Scholar
   - [Google Scholar](https://scholar.google.co.kr/citations?user=n1leMp8AAAAJ&hl=ko)
 ### profile
-- 25.03 ~       : Ph.D. Student, Department of AI, Chung-Ang University,  [VILab] (https://www.vilab.cau.ac.kr/home).
-- 23.03 ~ 25.02 : M.S. in Digital Imaging, Graduate School of Advanced Imaging Science, Chung-Ang University,  [VILab] (https://www.vilab.cau.ac.kr/home). 
+- 25.03 ~       : Ph.D. Student, Department of AI, Chung-Ang University,  [VILab](https://www.vilab.cau.ac.kr/home).
+- 24.09 ~ 25.02 : Intern, R&D Center, [SNUAILAB](https://snuailab.ai/)
+- 23.03 ~ 25.02 : M.S. in Digital Imaging, Graduate School of Advanced Imaging Science, Chung-Ang University,  [VILab](https://www.vilab.cau.ac.kr/home).
 - 17.03 ~ 23.02 : B.S. in Information and Communication Engineering, Myongji University
-- 21.04 ~ 22.02 : 동탄중앙이음터 도서관 봉사교육동아리 AIoT 
+- 21.04 ~ 22.02 : 동탄중앙이음터 도서관 봉사교육동아리 AIoT
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rama0126)](https://github.com/anuraghazra/github-readme-stats)
