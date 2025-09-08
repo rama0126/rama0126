@@ -17,7 +17,7 @@ I'm TAEHOON KIM
 #### My Blog and Website : 
   - [CS, 학부생 때 공부한 것](https://blog.naver.com/xo0126)
   - [HomePage](https://sites.google.com/vilab.cau.ac.kr/thkim)
-  - [LinkedIn](www.linkedin.com/in/taehoon-kim222)
+  - [LinkedIn](https://www.linkedin.com/in/taehoon-kim222)
 #### Scholar
   - [Google Scholar](https://scholar.google.co.kr/citations?user=n1leMp8AAAAJ&hl=ko)
     
