@@ -1,6 +1,6 @@
 ### Hi there 👋
-i'm TAEHOON KIM 
-- 🌱 I’m currently learning AI, CV
+I'm TAEHOON KIM 
+- 🌱 I’m pursuing a Ph.D. course at Chung-Ang University.
 - Researching for Deepfake Detection, Continual Learning.
 #### Publications : 
 - Domain Generalization for Face Forgery Detection by Style Transfer, ICCE 2024 [paper](https://ieeexplore.ieee.org/document/10444215)
@@ -9,15 +9,18 @@ i'm TAEHOON KIM
   - Jongwook Choi, Taehoon Kim, Yonghyun Jeong, Seungryul Baek, Jongwon Choi
 - ID-Flow: Leveraging Voice Identity for Generalizing Audio Deepfake Detection, ICCE 2025 [paper](https://drive.google.com/file/d/1_vb0uq1yr3Kcr08HEZ1b0yO2PtutC9hu/view)
   - Jongwook Choi, Taehoon Kim, Jongwon Choi
-- Beyond Spatial Frequency: Pixel-wise Temporal Frequency Deepfake Video Detection, ICCV 2025 [github](https://github.com/rama0126/PwTF-DVD)
+- Beyond Spatial Frequency: Pixel-wise Temporal Frequency Deepfake Video Detection, ICCV 2025 Highlight✨ [github](https://github.com/rama0126/PwTF-DVD)
   - Taehoon Kim, Jongwook Choi, Yonghyun Jeong, Haeun Noh, Jaejun Yoo, Seungryul Baek, Jongwon Choi
+- MAYA: Multi-Attack Yielding Augmentation for Unified Face Attack Detection, ICCV 2025 workshop
+  - Taehoon Kim, Jongwook Choi, Seungjin Jung, Jongwon Choi
 
-#### My Blog : 
+#### My Blog and Website : 
   - [CS, 학부생 때 공부한 것](https://blog.naver.com/xo0126)
   - [HomePage](https://sites.google.com/vilab.cau.ac.kr/thkim)
-
+  - [LinkedIn](www.linkedin.com/in/taehoon-kim222)
 #### Scholar
   - [Google Scholar](https://scholar.google.co.kr/citations?user=n1leMp8AAAAJ&hl=ko)
+    
 ### profile
 - 25.03 ~       : Ph.D. Student, Department of AI, Chung-Ang University,  [VILab](https://www.vilab.cau.ac.kr/home).
 - 24.09 ~ 25.02 : Intern, R&D Center, [SNUAILAB](https://snuailab.ai/)
