@@ -9,7 +9,7 @@ I'm TAEHOON KIM
   - Jongwook Choi, Taehoon Kim, Yonghyun Jeong, Seungryul Baek, Jongwon Choi
 - ID-Flow: Leveraging Voice Identity for Generalizing Audio Deepfake Detection, ICCE 2025 [paper](https://drive.google.com/file/d/1_vb0uq1yr3Kcr08HEZ1b0yO2PtutC9hu/view)
   - Jongwook Choi, Taehoon Kim, Jongwon Choi
-- Beyond Spatial Frequency: Pixel-wise Temporal Frequency Deepfake Video Detection, ICCV 2025 Highlight✨ [github](https://github.com/rama0126/PwTF-DVD)
+- Beyond Spatial Frequency: Pixel-wise Temporal Frequency Deepfake Video Detection, ICCV 2025 Highlight✨ [arxiv](https://arxiv.org/abs/2507.02398)  [github](https://github.com/rama0126/PwTF-DVD)  [page](https://rama0126.github.io/PwTF-DVD/)
   - Taehoon Kim, Jongwook Choi, Yonghyun Jeong, Haeun Noh, Jaejun Yoo, Seungryul Baek, Jongwon Choi
 - MAYA: Multi-Attack Yielding Augmentation for Unified Face Attack Detection, ICCV 2025 workshop
   - Taehoon Kim, Jongwook Choi, Seungjin Jung, Jongwon Choi
