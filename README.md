@@ -11,8 +11,11 @@ I'm TAEHOON KIM
   - Jongwook Choi, Taehoon Kim, Jongwon Choi
 - Beyond Spatial Frequency: Pixel-wise Temporal Frequency Deepfake Video Detection, ICCV 2025 Highlight✨ [arxiv](https://arxiv.org/abs/2507.02398)  [github](https://github.com/rama0126/PwTF-DVD)  [page](https://rama0126.github.io/PwTF-DVD/)
   - Taehoon Kim, Jongwook Choi, Yonghyun Jeong, Haeun Noh, Jaejun Yoo, Seungryul Baek, Jongwon Choi
-- MAYA: Multi-Attack Yielding Augmentation for Unified Face Attack Detection, ICCV 2025 workshop
+- MAYA: Multi-Attack Yielding Augmentation for Unified Face Attack Detection, ICCV 2025 workshop [paper](https://openaccess.thecvf.com/content/ICCV2025W/FAS2025/papers/Kim_MAYA_Multi-Attack_Yielding_Augmentation_for_Unified_Face_Attack_Detection_ICCVW_2025_paper.pdf)
   - Taehoon Kim, Jongwook Choi, Seungjin Jung, Jongwon Choi
+- Dynamic Augmentation Strategy Selection for Incremental Object Detection, ICPR 2026
+  - Yujeong Oh, Taehoon Kim, Mingyu Lee, Kimin Yun, Jongwon Choi
+
 
 #### My Blog and Website : 
   - [CS, 학부생 때 공부한 것](https://blog.naver.com/xo0126)
