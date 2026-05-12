@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Taehoon Kim
 
 **Ph.D. Student @ Chung-Ang University**  
-**Sustainable AI** **AI Risk Management** **Media Forensics**.
+**Sustainable AI** · **AI Risk Management** · **Media Forensics**.
 
 [![Homepage](https://img.shields.io/badge/Homepage-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sites.google.com/vilab.cau.ac.kr/thkim)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.co.kr/citations?user=n1leMp8AAAAJ&hl=ko)
