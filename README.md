@@ -29,6 +29,10 @@
 - **Dynamic Augmentation Strategy Selection for Incremental Object Detection**  
   *ICPR 2026*  
   Yujeong Oh, **Taehoon Kim**, Mingyu Lee, Kimin Yun, Jongwon Choi
+  
+- **I-Robot: Identifying Robotic and Human Motion in Humanoids**  
+  *ICML 2026 workshop*  
+  **Taehoon Kim**, Jongwook Choi, Haeun Noh, Junyeup Hwang, Jongwon Choi
 
 ### 2025
 
