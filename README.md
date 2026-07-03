@@ -30,12 +30,12 @@
   *ICPR 2026*  
   Yujeong Oh, **Taehoon Kim**, Mingyu Lee, Kimin Yun, Jongwon Choi
   
-- **I-Robot: Identifying Robotic and Human Motion in Humanoids**  [[GitHub]](https://github.com/rama0126/I-Robot)
+- **I-Robot: Identifying Robotic and Human Motion in Humanoids**  [[GitHub]](https://github.com/rama0126/I-Robot)  
   *ICML 2026 Workshop (AI4GOOD)*  
   **Taehoon Kim**, Jongwook Choi, Haeun Noh, Junyeup Hwang, Jongwon Choi
 
 
-- **Preserving Knowledge across Space and Time for Continual Video Deepfake Detection** 
+- **Preserving Knowledge across Space and Time for Continual Video Deepfake Detection**  
   *ECCV 2026*  
   **Taehoon Kim***, Jongwook Choi*, Heejae Jo, Byungmin Park, Jongwon Choi (* : equal contribution)
 
