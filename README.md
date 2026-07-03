@@ -35,7 +35,7 @@
   **Taehoon Kim**, Jongwook Choi, Haeun Noh, Junyeup Hwang, Jongwon Choi
 
 
-- **Preserving Knowledge across Space and Time for Continual Video Deepfake Detection**  
+- **Preserving Knowledge across Space and Time for Continual Video Deepfake Detection** [[GitHub]](https://github.com/rama0126/MSFD)  
   *ECCV 2026*  
   **Taehoon Kim***, Jongwook Choi*, Heejae Jo, Byungmin Park, Jongwon Choi (* : equal contribution)
 
