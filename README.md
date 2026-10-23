@@ -30,7 +30,7 @@
   *ICPR 2026*  
   Yujeong Oh, **Taehoon Kim**, Mingyu Lee, Kimin Yun, Jongwon Choi
   
-- **I-Robot: Identifying Robotic and Human Motion in Humanoids**  [[GitHub]](https://github.com/rama0126/I-Robot)  
+- **I-Robot: Identifying Robotic and Human Motion in Humanoids**  [[GitHub]](https://github.com/rama0126/I-Robot) [[Arxiv]](https://arxiv.org/pdf/2609.03446) [[ProjectPage]](https://rama0126.github.io/MSFD/)
   *ICML 2026 Workshop (AI4GOOD)*  
   **Taehoon Kim**, Jongwook Choi, Haeun Noh, Junyeup Hwang, Jongwon Choi
 
