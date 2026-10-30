@@ -34,11 +34,13 @@
   *ICML 2026 Workshop (AI4GOOD)*  
   **Taehoon Kim**, Jongwook Choi, Haeun Noh, Junyeup Hwang, Jongwon Choi
 
-
 - **Preserving Knowledge across Space and Time for Continual Video Deepfake Detection** [[GitHub]](https://github.com/rama0126/MSFD)[[Arxiv]](https://arxiv.org/pdf/2609.03446) [[ProjectPage]](https://rama0126.github.io/MSFD/)  
   *ECCV 2026*  
   **Taehoon Kim***, Jongwook Choi*, Heejae Jo, Byungmin Park, Jongwon Choi (* : equal contribution)
-
+  
+- **RoomCurator: Unified Generation, Editing, and Recommendation for Structured Three-Dimensional Room Layouts**, EAAI 2026
+  *Engineering Applications of Artificial Intelligence [IF=9.0]*  
+  Haeun Noh, Mingyu Lee, **Taehoon Kim**, Jongwon Choi
 
 ### 2025
 
