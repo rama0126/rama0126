@@ -24,6 +24,12 @@
 
 ## 📚 Publications
 
+### 2027
+- **RoomCurator: Unified Generation, Editing, and Recommendation for Structured Three-Dimensional Room Layouts**, EAAI 2027 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0952197626029386)
+  *Engineering Applications of Artificial Intelligence [IF=9.0]*  
+  Haeun Noh, Mingyu Lee, **Taehoon Kim**, Jongwon Choi
+
+
 ### 2026
 
 - **Dynamic Augmentation Strategy Selection for Incremental Object Detection**  
@@ -38,9 +44,7 @@
   *ECCV 2026*  
   **Taehoon Kim***, Jongwook Choi*, Heejae Jo, Byungmin Park, Jongwon Choi (* : equal contribution)
   
-- **RoomCurator: Unified Generation, Editing, and Recommendation for Structured Three-Dimensional Room Layouts**, EAAI 2026
-  *Engineering Applications of Artificial Intelligence [IF=9.0]*  
-  Haeun Noh, Mingyu Lee, **Taehoon Kim**, Jongwon Choi
+
 
 ### 2025
 
